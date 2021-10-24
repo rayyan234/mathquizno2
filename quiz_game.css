@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+}
+#output
+{
+    width:500px;
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#input_question1{
+    width:700px;
+
+}
+#input_question2{
+    width:700px;
+
+}
